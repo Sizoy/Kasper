@@ -1,0 +1,36 @@
+/*all^ width = 1280px height = 420 px
+main: width = 230px height = 200px */
+
+body {
+    background-color: #121116;
+}
+
+main {
+    width: 19vw;
+    height: 38vh;
+    margin: 39vh auto 5vh auto;
+    text-align: center;
+}
+
+#links {
+    margin-top: 10vh;
+    color: white;
+    font-family: 'Open Sans' sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+}
+a {
+    margin: 2vh 1.3vw 0 1.3vw;
+}
+
+span {
+    color: #00c7fc;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    font-family: "Open Sans";
+}
+
